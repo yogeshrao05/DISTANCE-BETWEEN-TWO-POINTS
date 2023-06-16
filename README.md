@@ -28,12 +28,12 @@ d1 = [4,2]
 d2 = [10,6]
 dist = math.sqrt((d2[0]-d1[0])**2+(d2[1]-d1[1])**2)
 print("{:.2f}".format(dist))
-
-### OUTPUT:
 ```
+### OUTPUT:
+
 ![image](https://user-images.githubusercontent.com/122008288/227435203-2e3913f4-3572-47bd-9c77-db4b691ff67e.png)
 
-RESULT:
+## RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
 
 
